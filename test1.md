@@ -6,6 +6,9 @@ description: 테스트 페이지 설명
 
 * 항목명 1 \(가로 분할 입력 테스트\)
 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/eqSCunKweu8' frameborder='0' allowfullscreen></iframe></div>
+
+
 <iframe width="300" height="200" src="https://youtu.be/fS89dWplcK4" frameborder="0" allowfullscreen></iframe>
 
 <table>

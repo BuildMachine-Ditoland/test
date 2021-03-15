@@ -16,7 +16,7 @@ description: 테스트 페이지 설명
   <tbody>
     <tr>
       <td style="text-align:center">
-        <iframe width="300" height="200" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+        <iframe width="300" height="200" src="https://youtu.be/fS89dWplcK4" frameborder="0" allowfullscreen></iframe>
       </td>
       <td style="text-align:left">
         <ul>

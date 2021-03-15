@@ -16,7 +16,7 @@ description: 테스트 페이지 설명
   <tbody>
     <tr>
       <td style="text-align:center">
-        <img src=".gitbook/assets/20200602_103954.jpg" alt/>
+        <iframe width="300" height="200" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
       </td>
       <td style="text-align:left">
         <ul>

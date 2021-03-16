@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [HOME](README.md)
 * [Studio Manual](studio-manual.md)
 * [API Reference](api-reference.md)
 * [Video Tutorial](video-tutorial/README.md)

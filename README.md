@@ -1,30 +1,40 @@
+# HOME
+
 ![](.gitbook/assets/20210316_142454.jpg)
 
 <table>
+  <thead>
     <tr>
-      <td style="text-align:left">
-        <p><a href="studio-manual.md">Studio Manual</a><br/>  <a href="studio-manual.md"><img src=".gitbook/assets/image.png"></a>
+      <th style="text-align:left">
+        <p><a href="studio-manual.md">Studio Manual</a>
+          <br /> <a href="studio-manual.md"><img src=".gitbook/assets/image.png" alt/></a>
           <br
           /><a href="studio-manual.md#1">&#xB300;&#xD0C0;&#xC774;&#xD2C0; 1</a>
         </p>
         <p><a href="studio-manual.md#2">&#xB300;&#xD0C0;&#xC774;&#xD2C0; 2</a>
         </p>
-      </td>
-      <td style="text-align:top">
-          <p align="top"><a href="resources.md">Resources</a></p>
-        <p align="top"><img src=".gitbook/assets/20210316_142830.jpg"></p>
-      </td>
+      </th>
+      <th style="text-align:left">
+        <p><a href="resources.md">Resources</a>
+        </p>
+        <p>
+          <img src=".gitbook/assets/20210316_142830.jpg" alt/>
+        </p>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
 </table>
 
 ![](.gitbook/assets/image.png)
 
 <table>
+  <thead>
     <tr>
-      <td style="text-align:top">
+      <th style="text-align:left">
         <img src=".gitbook/assets/20210316_152740.jpg" alt/>
-      </td>
-      <td style="text-align:top">
+      </th>
+      <th style="text-align:left">
         <p>
           <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/studio-tutorial/">Studio Tutorial</a>
         </p>
@@ -34,10 +44,12 @@
         <p>
           <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/script-and-lua.md">Script &amp; Lua Tutorial</a>
         </p>
-      </td>
-    </tr>    
+      </th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
-      <td style="text-align:top">
+      <td style="text-align:left">
         <p>
           <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/studio-tutorial/">Studio Tutorial</a>
         </p>
@@ -48,9 +60,10 @@
           <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/script-and-lua.md">Script &amp; Lua Tutorial</a>
         </p>
       </td>
-      <td style="text-align:top">
+      <td style="text-align:left">
         <img src=".gitbook/assets/20210316_152740.jpg" alt/>
       </td>
     </tr>
+  </tbody>
 </table>
 

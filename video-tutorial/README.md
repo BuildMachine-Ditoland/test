@@ -5,33 +5,34 @@ description: 동영상 강좌를 통해 쉽고 재미있게 게임을 만드는 
 # Video Tutorial
 
 ## Studio
+
 <table>
+  <thead>
     <tr>
-      <td style="text-align:left" width="50%">
-        <img src=".gitbook/assets/20210316_152740.jpg" alt/>
-      </td>
-      <td style="text-align:left" width="50%">
+      <th style="text-align:left">
+        <img src="https://github.com/BuildMachine-Ditoland/test/tree/ec6836d8fe4b7373426f29b0faef65398c046189/video-tutorial/.gitbook/assets/20210316_152740.jpg"
+        alt/>
+      </th>
+      <th style="text-align:left">
         <p>
-          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/studio-tutorial/">Studio Tutorial</a>
+          <img src="https://github.com/BuildMachine-Ditoland/test/tree/ec6836d8fe4b7373426f29b0faef65398c046189/video-tutorial/.gitbook/assets/20210316_153206.jpg"
+          alt/> <a href="https://github.com/BuildMachine-Ditoland/test/tree/ec6836d8fe4b7373426f29b0faef65398c046189/video-tutorial/video-tutorial/studio-tutorial/README.md">Studio Tutorial</a>
         </p>
         <p>
-          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/game.md">Make Game Tutorial</a>
+          <img src="https://github.com/BuildMachine-Ditoland/test/tree/ec6836d8fe4b7373426f29b0faef65398c046189/video-tutorial/.gitbook/assets/20210316_153206.jpg"
+          alt/> <a href="https://github.com/BuildMachine-Ditoland/test/tree/ec6836d8fe4b7373426f29b0faef65398c046189/video-tutorial/video-tutorial/game.md">Make Game Tutorial</a>
         </p>
         <p>
-          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/script-and-lua.md">Script &amp; Lua Tutorial</a>
+          <img src="https://github.com/BuildMachine-Ditoland/test/tree/ec6836d8fe4b7373426f29b0faef65398c046189/video-tutorial/.gitbook/assets/20210316_153206.jpg"
+          alt/> <a href="https://github.com/BuildMachine-Ditoland/test/tree/ec6836d8fe4b7373426f29b0faef65398c046189/video-tutorial/video-tutorial/script-and-lua.md">Script &amp; Lua Tutorial</a>
         </p>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
 </table>
-
-
-
 
 Game
 
-
-
 Script & Lua
-
-
 

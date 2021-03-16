@@ -27,7 +27,7 @@
   </tbody>
 </table>
 
-![](.gitbook/assets/image.png){: width="100"}
+![](.gitbook/assets/image.png)
 
 <table>
   <thead>
@@ -39,7 +39,7 @@
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/20210316_152740.jpg" width="300" alt/>
+        <img src=".gitbook/assets/20210316_152740.jpg" width="300px" alt/>
       </td>
       <td style="text-align:left">
         <p><a href="video-tutorial/studio-tutorial/">Studio Tutorial</a>

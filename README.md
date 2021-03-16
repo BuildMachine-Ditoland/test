@@ -27,7 +27,7 @@
   </tbody>
 </table>
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/image.png){: width="100"}
 
 <table>
   <thead>

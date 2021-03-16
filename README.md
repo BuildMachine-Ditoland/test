@@ -42,11 +42,14 @@
         <img src=".gitbook/assets/20210316_152740.jpg" alt/>
       </td>
       <td style="text-align:left">
-        <p><a href="video-tutorial/studio-tutorial/">Studio Tutorial</a>
+        <p>
+          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/studio-tutorial/">Studio Tutorial</a>
         </p>
-        <p><a href="video-tutorial/game.md">Make Game Tutorial</a>
+        <p>
+          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/game.md">Make Game Tutorial</a>
         </p>
-        <p><a href="video-tutorial/script-and-lua.md">Script &amp; Lua Tutorial</a>
+        <p>
+          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/script-and-lua.md">Script &amp; Lua Tutorial</a>
         </p>
       </td>
     </tr>

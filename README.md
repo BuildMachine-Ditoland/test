@@ -3,13 +3,6 @@
 ![](.gitbook/assets/20210316_142454.jpg)
 
 <table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td style="text-align:left">
         <p><a href="studio-manual.md">Studio Manual</a>  <a href="studio-manual.md"><img src=".gitbook/assets/image.png" alt/></a>
@@ -24,7 +17,6 @@
         alt/>
       </td>
     </tr>
-  </tbody>
 </table>
 
 ![](.gitbook/assets/image.png)

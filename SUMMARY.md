@@ -11,5 +11,7 @@
     * [\[기초\] 맵 업로드 및 공유하기](video-tutorial/studio-tutorial/undefined-2.md)
     * [\[초급\] 간단한 장애물 게임 만들기](video-tutorial/studio-tutorial/undefined-3.md)
     * [\[중급\] 팔레트 활용하기](video-tutorial/studio-tutorial/undefined-4.md)
+  * [Game](video-tutorial/game.md)
+  * [Script & Lua](video-tutorial/script-and-lua.md)
 * [페이지 타이틀\(메뉴명과 동일\)](test1.md)
 

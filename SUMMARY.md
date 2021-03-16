@@ -2,6 +2,7 @@
 
 * [HOME](README.md)
 * [Studio Manual](studio-manual.md)
+* [Resources](resources.md)
 * [API Reference](api-reference.md)
 * [Video Tutorial](video-tutorial/README.md)
   * [Studio Tutorial](video-tutorial/studio-tutorial/README.md)

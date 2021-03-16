@@ -53,4 +53,4 @@
   </tbody>
 </table>
 
-<div><img src=".gitbook/assets/20210316_152740.jpg" width="100px" alt/></div>
+<img src=".gitbook/assets/20210316_152740.jpg" width="100px" alt/>

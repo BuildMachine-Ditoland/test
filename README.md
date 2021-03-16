@@ -5,7 +5,7 @@
 <table>
     <tr>
       <td style="text-align:left">
-        <p><a href="studio-manual.md">Studio Manual</a>  <a href="studio-manual.md"><img src=".gitbook/assets/image.png" alt/></a>
+        <p><a href="studio-manual.md">Studio Manual</a>  <a href="studio-manual.md"><img src=".gitbook/assets/image.png"></a>
           <br
           /><a href="studio-manual.md#1">&#xB300;&#xD0C0;&#xC774;&#xD2C0; 1</a>
         </p>

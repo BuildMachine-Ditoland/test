@@ -14,7 +14,6 @@
       </td>
       <td style="text-align:left"><a href="resources.md">Resources</a> 
         <p align="top"><img src=".gitbook/assets/20210316_142830.jpg"></p>
-        alt/>
       </td>
     </tr>
 </table>

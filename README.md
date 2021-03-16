@@ -39,7 +39,7 @@
   <tbody>
     <tr>
       <td style="text-align:left">
-        <img src=".gitbook/assets/20210316_152740.jpg" alt/>
+        <img src=".gitbook/assets/20210316_152740.jpg" width="300" alt/>
       </td>
       <td style="text-align:left">
         <p><a href="video-tutorial/studio-tutorial/">Studio Tutorial</a>

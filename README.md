@@ -4,7 +4,7 @@
 
 |  |  |
 | :--- | :--- |
-| ![](.gitbook/assets/image.png)  | ![](.gitbook/assets/20210316_142830.jpg) 1 |
+| ![](.gitbook/assets/image.png)  | ![](.gitbook/assets/20210316_142830.jpg) |
 |  |  |
 |  |  |
 |  |  |

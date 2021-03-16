@@ -35,8 +35,7 @@
           <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/script-and-lua.md">Script &amp; Lua Tutorial</a>
         </p>
       </td>
-    </tr>
-    
+    </tr>    
     <tr>
       <td style="text-align:top">
         <p>

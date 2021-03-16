@@ -12,7 +12,7 @@
         <p><a href="studio-manual.md#2">&#xB300;&#xD0C0;&#xC774;&#xD2C0; 2</a>
         </p>
       </td>
-      <td style="text-align:left"><a href="resources.md">Resources</a> 
+      <td style="text-align:top"><a href="resources.md">Resources</a> 
         <p align="top"><img src=".gitbook/assets/20210316_142830.jpg"></p>
       </td>
     </tr>

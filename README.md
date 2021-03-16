@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/20210316_142454.jpg)
 
-<p>
+<p width="750px">
  <a href="https://rdevelop.ditoland.co.kr/GameManage/CG"><img src=".gitbook/assets/20210316_142454.jpg" alt/ width="100%"></a>
  </p>
  

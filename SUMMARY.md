@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Initial page](README.md)
+* [Studio Manual](studio-manual.md)
+* [API Reference](api-reference.md)
 * [Video Tutorial](video-tutorial/README.md)
   * [Studio Tutorial](video-tutorial/studio-tutorial/README.md)
     * [\[기초\] 스튜디오 기본 사용법](video-tutorial/studio-tutorial/undefined.md)

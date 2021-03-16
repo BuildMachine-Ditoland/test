@@ -21,10 +21,10 @@
 
 <table>
     <tr>
-      <td style="text-align:top" "width:50%">
+      <td style="text-align:top">
         <img src=".gitbook/assets/20210316_152740.jpg" alt/>
       </td>
-      <td style="text-align:top" "width:50%">
+      <td style="text-align:top">
         <p>
           <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/studio-tutorial/">Studio Tutorial</a>
         </p>
@@ -34,6 +34,23 @@
         <p>
           <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/script-and-lua.md">Script &amp; Lua Tutorial</a>
         </p>
+      </td>
+    </tr>
+    
+    <tr>
+      <td style="text-align:top">
+        <p>
+          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/studio-tutorial/">Studio Tutorial</a>
+        </p>
+        <p>
+          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/game.md">Make Game Tutorial</a>
+        </p>
+        <p>
+          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/script-and-lua.md">Script &amp; Lua Tutorial</a>
+        </p>
+      </td>
+      <td style="text-align:top">
+        <img src=".gitbook/assets/20210316_152740.jpg" alt/>
       </td>
     </tr>
 </table>

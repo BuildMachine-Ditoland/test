@@ -22,13 +22,6 @@
 ![](.gitbook/assets/image.png)
 
 <table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td style="text-align:left">
         <img src=".gitbook/assets/20210316_152740.jpg" alt/>
@@ -45,6 +38,5 @@
         </p>
       </td>
     </tr>
-  </tbody>
 </table>
 

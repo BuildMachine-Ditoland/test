@@ -27,7 +27,7 @@
   </tbody>
 </table>
 
-![](.gitbook/assets/image.png)
+![,30%](.gitbook/assets/image.png)
 
 <table>
   <thead>

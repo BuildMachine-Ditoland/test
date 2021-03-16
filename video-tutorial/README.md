@@ -6,13 +6,6 @@ description: 동영상 강좌를 통해 쉽고 재미있게 게임을 만드는 
 
 ## Studio
 <table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td style="text-align:left" width="50%">
         <img src=".gitbook/assets/20210316_152740.jpg" alt/>
@@ -29,7 +22,6 @@ description: 동영상 강좌를 통해 쉽고 재미있게 게임을 만드는 
         </p>
       </td>
     </tr>
-  </tbody>
 </table>
 
 

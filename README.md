@@ -28,7 +28,7 @@
     <tr>
       <td style="text-align:left"> <a href="api-reference.md"><img src=".gitbook/assets/20210317_164709.jpg" alt/></a>
         <br
-        /><a href="api-reference.md">&#xD56D;&#xBAA9;&#xBA85; &#xB178;&#xCD9C;<br /></a>
+        /><a href="api-reference.md">&#xD56D;&#xBAA9;&#xBA85; &#xB178;&#xCD9C;</a>
       </td>
       <td style="text-align:left">
         <img src=".gitbook/assets/20210316_152740 (2) (2) (4) (4) (3).jpg" alt/>

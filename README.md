@@ -2,10 +2,6 @@
 
 ![](.gitbook/assets/20210316_142454.jpg)
 
-![](.gitbook/assets/20210316_142454.jpg)
-
-![](.gitbook/assets/20210316_142454.jpg)
-
 [![](.gitbook/assets/20210316_142454.jpg)](https://rdevelop.ditoland.co.kr/GameManage/CG)
 
 <table>

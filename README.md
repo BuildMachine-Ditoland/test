@@ -21,7 +21,9 @@
         </p>
         <p>
           <img src=".gitbook/assets/20210316_142830.jpg" alt/>
+          <br /><a href="resources.md">&#xD56D;&#xBAA9;&#xBA85; &#xB178;&#xCD9C;</a>
         </p>
+        <p></p>
       </th>
     </tr>
   </thead>

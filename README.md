@@ -67,5 +67,5 @@
   </tbody>
 </table>
 
-![](.gitbook/assets/20210317_145308.jpg)
+[![디스코드배너](.gitbook/assets/20210317_145308.jpg)](https://discord.gg/BxXM4JA)
 

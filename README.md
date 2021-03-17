@@ -16,8 +16,11 @@
         </p>
       </th>
       <th style="text-align:left">
-        <img src=".gitbook/assets/20210316_142830.jpg" alt/>
-        <br /><a href="resources.md">&#xD56D;&#xBAA9;&#xBA85; &#xB178;&#xCD9C;</a>
+        <p>
+          <img src=".gitbook/assets/20210316_142830.jpg" alt/>
+          <br /><a href="resources.md">&#xD56D;&#xBAA9;&#xBA85; &#xB178;&#xCD9C;</a>
+        </p>
+        <p></p>
       </th>
     </tr>
   </thead>
@@ -26,15 +29,17 @@
       <td style="text-align:left">
         <p> <a href="api-reference.md"><img src=".gitbook/assets/20210317_164709.jpg" alt/></a>
           <br
-          /><a href="API-Reference.md">&#xB300;&#xD0C0;&#xC774;&#xD2C0; 1</a>
+          /><a href="https://github.com/BuildMachine-Ditoland/test/tree/6a1818e9368ef0f4d9bb0beb1ed98fb30358d3e3/API-Reference.md">&#xB300;&#xD0C0;&#xC774;&#xD2C0; 1</a>
         </p>
-        <p><a href="API-Reference.md">&#xB300;&#xD0C0;&#xC774;&#xD2C0; 2</a>
+        <p><a href="https://github.com/BuildMachine-Ditoland/test/tree/6a1818e9368ef0f4d9bb0beb1ed98fb30358d3e3/API-Reference.md">&#xB300;&#xD0C0;&#xC774;&#xD2C0; 2</a>
         </p>
       </td>
       <td style="text-align:left">
-        <br /> <a href="api-reference.md"><img src=".gitbook/assets/20210316_152740%20%282%29%20%282%29%20%284%29%20%284%29%20%283%29.jpg" alt/></a>
-        <br
-        /><a href="resources.md">&#xD56D;&#xBAA9;&#xBA85; &#xB178;&#xCD9C;</a>
+        <p>
+          <img src=".gitbook/assets/20210316_152740 (2) (2) (4) (4) (3).jpg" alt/>
+          <br /><a href="resources.md">&#xD56D;&#xBAA9;&#xBA85; &#xB178;&#xCD9C;</a>
+        </p>
+        <p></p>
       </td>
     </tr>
   </tbody>

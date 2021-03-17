@@ -41,10 +41,10 @@
           <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/studio-tutorial/">Studio Tutorial</a>
         </p>
         <p>
-          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/game.md">Make Game Tutorial</a>
+          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/game/">Make Game Tutorial</a>
         </p>
         <p>
-          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/script-and-lua.md">Script &amp; Lua Tutorial</a>
+          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/script-and-lua/">Script &amp; Lua Tutorial</a>
         </p>
       </th>
     </tr>
@@ -56,10 +56,10 @@
           <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/studio-tutorial/">Studio Tutorial</a>
         </p>
         <p>
-          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/game.md">Make Game Tutorial</a>
+          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/game/">Make Game Tutorial</a>
         </p>
         <p>
-          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/script-and-lua.md">Script &amp; Lua Tutorial</a>
+          <img src=".gitbook/assets/20210316_153206.jpg" alt/> <a href="video-tutorial/script-and-lua/">Script &amp; Lua Tutorial</a>
         </p>
       </td>
       <td style="text-align:left">

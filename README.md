@@ -2,9 +2,7 @@
 
 ![](.gitbook/assets/20210316_142454.jpg)
 
- 
-
-![](.gitbook/assets/20210316_142454.jpg)
+<a href="studio-manual.md"><img src=".gitbook/assets/20210316_142454.jpg" alt/></a>
 
 <table>
   <thead>

@@ -26,8 +26,10 @@
         <p></p>
       </th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
-      <th style="text-align:left">
+      <td style="text-align:left">
         <p><a href="studio-manual.md">Studio Manual</a>
           <br /> <a href="studio-manual.md"><img src=".gitbook/assets/image.png" alt/></a>
           <br
@@ -35,8 +37,8 @@
         </p>
         <p><a href="studio-manual.md#2">&#xB300;&#xD0C0;&#xC774;&#xD2C0; 2</a>
         </p>
-      </th>
-      <th style="text-align:left">
+      </td>
+      <td style="text-align:left">
         <p><a href="resources.md">Resources</a>
         </p>
         <p>
@@ -44,13 +46,10 @@
           <br /><a href="resources.md">&#xD56D;&#xBAA9;&#xBA85; &#xB178;&#xCD9C;</a>
         </p>
         <p></p>
-      </th>
+      </td>
     </tr>
-  </thead>
-  <tbody></tbody>
+  </tbody>
 </table>
-
-
 
 [![&#xB514;&#xC2A4;&#xCF54;&#xB4DC;&#xBC30;&#xB108;](.gitbook/assets/20210317_145308.jpg)](https://discord.gg/BxXM4JA)
 

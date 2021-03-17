@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/20210316_142454.jpg)
 
-[![](.gitbook/assets/20210316_142454.jpg)](studio-manual.md)
+[![](.gitbook/assets/20210316_142454.jpg)](https://rdevelop.ditoland.co.kr/GameManage/CG)
 
 <table>
   <thead>
@@ -15,12 +15,9 @@
         <p><a href="studio-manual.md#2">&#xC18C;&#xBA54;&#xB274; &#xBC14;&#xB85C;&#xAC00;&#xAE30; 2</a>
         </p>
       </th>
-      <th style="text-align:left">
-        <p>
-          <a href="resources.md"><img src=".gitbook/assets/20210316_142830.jpg" alt/></a>
-          <br /><a href="resources.md">&#xC18C;&#xBA54;&#xB274; &#xBC14;&#xB85C;&#xAC00;&#xAE30;</a>
-        </p>
-        <p></p>
+      <th style="text-align:left"> <a href="resources.md"><img src=".gitbook/assets/20210316_142830.jpg" alt/></a>
+        <br
+        /><a href="resources.md">&#xC18C;&#xBA54;&#xB274; &#xBC14;&#xB85C;&#xAC00;&#xAE30;</a>
       </th>
     </tr>
   </thead>
@@ -30,9 +27,9 @@
         <br
         /><a href="api-reference.md">&#xC18C;&#xBA54;&#xB274; &#xBC14;&#xB85C;&#xAC00;&#xAE30;</a>
       </td>
-      <td style="text-align:left">
-        <a href="video-tutorial/"><img src=".gitbook/assets/20210316_152740 (2) (2) (4) (4) (3).jpg" alt/></a>
-        <br /><a href="video-tutorial/">&#xC18C;&#xBA54;&#xB274; &#xBC14;&#xB85C;&#xAC00;&#xAE30;</a>
+      <td style="text-align:left"> <a href="video-tutorial/"><img src=".gitbook/assets/20210316_152740 (2) (2) (4) (4) (3).jpg" alt/></a>
+        <br
+        /><a href="video-tutorial/">&#xC18C;&#xBA54;&#xB274; &#xBC14;&#xB85C;&#xAC00;&#xAE30;</a>
       </td>
     </tr>
   </tbody>

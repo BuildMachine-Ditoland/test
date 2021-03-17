@@ -26,4 +26,10 @@
     * [\[중급\] 제어문](video-tutorial/script-and-lua/undefined-3.md)
     * [\[중급\] 함수](video-tutorial/script-and-lua/undefined-4.md)
 * [디토랜드 표준 코딩](test1.md)
+* [Release Note](release-note/README.md)
+  * [Alpha Update v0.0.5](release-note/alpha-update-v0.0.5.md)
+  * [Alpha Update v0.0.4](release-note/alpha-update-v0.0.4.md)
+  * [Alpha Update v0.0.3](release-note/alpha-update-v0.0.3.md)
+  * [Alpha Update v0.0.2](release-note/alpha-update-v0.0.2.md)
+  * [Alpha Update v0.0.1](release-note/alpha-update-v0.0.1.md)
 

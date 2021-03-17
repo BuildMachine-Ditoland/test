@@ -9,7 +9,7 @@ description: 동영상 강좌를 통해 쉽고 재미있게 게임을 만드는 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><a href="studio-tutorial/undefined.md"><img src="../.gitbook/assets/20210316_152740 (2) (2) (4) (2).jpg" alt/></a>
+      <th style="text-align:left"><a href="studio-tutorial/undefined.md"><img src="../.gitbook/assets/20210316_152740 (2) (2) (4) (4) (2).jpg" alt/></a>
       </th>
       <th style="text-align:left">
         <p>
@@ -43,7 +43,7 @@ description: 동영상 강좌를 통해 쉽고 재미있게 게임을 만드는 
           <img src="../.gitbook/assets/20210316_153206.jpg" alt/> <a href="game/undefined-4.md">[&#xC2EC;&#xD654;] &#xC810;&#xD504;&#xAC8C;&#xC784; &#xB9CC;&#xB4E4;</a>
         </p>
       </th>
-      <th style="text-align:left"><a href="game/undefined.md"><img src="../.gitbook/assets/20210316_152740 (2) (2) (4).jpg" alt/></a>
+      <th style="text-align:left"><a href="game/undefined.md"><img src="../.gitbook/assets/20210316_152740 (2) (2) (4) (4).jpg" alt/></a>
       </th>
     </tr>
   </thead>

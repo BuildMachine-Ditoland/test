@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/20210316_142454.jpg)
 
- [![](.gitbook/assets/20210316_142454.jpg)](studio-manual.md)
+[![](.gitbook/assets/20210316_142454.jpg)](studio-manual.md)
 
 <table>
   <thead>
@@ -67,4 +67,5 @@
   </tbody>
 </table>
 
-[![디스코드배너](.gitbook/assets/20210317_145308.jpg)](https://discord.gg/BxXM4JA)
+[![&#xB514;&#xC2A4;&#xCF54;&#xB4DC;&#xBC30;&#xB108;](.gitbook/assets/20210317_145308.jpg)](https://discord.gg/BxXM4JA)
+

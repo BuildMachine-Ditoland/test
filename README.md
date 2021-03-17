@@ -2,13 +2,17 @@
 
 ![](.gitbook/assets/20210316_142454.jpg)
 
+![](.gitbook/assets/20210316_142454.jpg)
+
+![](.gitbook/assets/20210316_142454.jpg)
+
 [![](.gitbook/assets/20210316_142454.jpg)](https://rdevelop.ditoland.co.kr/GameManage/CG)
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">
-        <p> <a href="studio-manual.md"><img src=".gitbook/assets/image.png" alt/ style="zoom:100%;" /></a>
+        <p> <a href="studio-manual.md"><img src=".gitbook/assets/image.png" alt/></a>
           <br
           /><a href="studio-manual.md#1">&#xC18C;&#xBA54;&#xB274; &#xBC14;&#xB85C;&#xAC00;&#xAE30; 1</a>
         </p>

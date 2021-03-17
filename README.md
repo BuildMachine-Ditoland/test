@@ -26,13 +26,13 @@
       <td style="text-align:left">
         <p> <a href="api-reference.md"><img src=".gitbook/assets/20210317_164709.jpg" alt/></a>
           <br
-          /><a href="https://github.com/BuildMachine-Ditoland/test/tree/f0a93f06889be1ba292eebc292d2dcaee2158e17/API-Reference.md">&#xB300;&#xD0C0;&#xC774;&#xD2C0; 1</a>
+          /><a href="API-Reference.md">&#xB300;&#xD0C0;&#xC774;&#xD2C0; 1</a>
         </p>
-        <p><a href="https://github.com/BuildMachine-Ditoland/test/tree/f0a93f06889be1ba292eebc292d2dcaee2158e17/API-Reference.md">&#xB300;&#xD0C0;&#xC774;&#xD2C0; 2</a>
+        <p><a href="API-Reference.md">&#xB300;&#xD0C0;&#xC774;&#xD2C0; 2</a>
         </p>
       </td>
       <td style="text-align:left">
-        <br /> <a href="https://github.com/BuildMachine-Ditoland/test/tree/f0a93f06889be1ba292eebc292d2dcaee2158e17/Video-Tutorial.md"><img src="https://github.com/BuildMachine-Ditoland/test/tree/f0a93f06889be1ba292eebc292d2dcaee2158e17/gitbook/assets/20210316_152740%20%282%29%20%282%29%20%284%29%20%284%29%20%283%29.jpg" alt/></a>
+        <br /> <a href="api-reference.md"><img src=".gitbook/assets/20210316_152740%20%282%29%20%282%29%20%284%29%20%284%29%20%283%29.jpg" alt/></a>
         <br
         /><a href="resources.md">&#xD56D;&#xBAA9;&#xBA85; &#xB178;&#xCD9C;</a>
       </td>

@@ -49,7 +49,3 @@
 
 [![&#xB514;&#xC2A4;&#xCF54;&#xB4DC;&#xBC30;&#xB108;](.gitbook/assets/20210317_145308.jpg)](https://discord.gg/BxXM4JA)
 
-![](.gitbook/assets/20210317_164709.jpg)
-
-![](.gitbook/assets/20210316_152740%20%282%29%20%282%29%20%284%29%20%284%29%20%283%29.jpg)
-

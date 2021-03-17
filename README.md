@@ -34,7 +34,7 @@
   <thead>
     <tr>
       <th style="text-align:left">
-        <img src=".gitbook/assets/20210316_152740 (2).jpg" alt/>
+        <img src=".gitbook/assets/20210316_152740 (2) (2) (2).jpg" alt/>
       </th>
       <th style="text-align:left">
         <p>
@@ -63,7 +63,7 @@
         </p>
       </td>
       <td style="text-align:left">
-        <img src=".gitbook/assets/20210316_152740 (2).jpg" alt/>
+        <img src=".gitbook/assets/20210316_152740 (2) (2) (2).jpg" alt/>
       </td>
     </tr>
   </tbody>

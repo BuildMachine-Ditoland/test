@@ -4,9 +4,10 @@ description: 동영상 강좌를 통해 쉽고 재미있게 게임을 만드는 
 
 # Video Tutorial
 
-## Studio Tutorial
+## [Studio Tutorial](studio-tutorial/)
 
 <table>
+  <thead>
     <tr>
       <th style="text-align:left"><a href="studio-tutorial/undefined.md"><img src="../.gitbook/assets/20210316_152740 (1) (1).jpg" alt/></a>
       </th>
@@ -22,11 +23,14 @@ description: 동영상 강좌를 통해 쉽고 재미있게 게임을 만드는 
         </p>
       </th>
     </tr>
+  </thead>
+  <tbody></tbody>
 </table>
 
-## Game Tutorial
+## [Game Tutorial](game/)
 
 <table>
+  <thead>
     <tr>
       <th style="text-align:left">
         <p>
@@ -42,7 +46,7 @@ description: 동영상 강좌를 통해 쉽고 재미있게 게임을 만드는 
       <th style="text-align:left"><a href="game/undefined.md"><img src="../.gitbook/assets/20210316_152740 (1).jpg" alt/></a>
       </th>
     </tr>
+  </thead>
+  <tbody></tbody>
 </table>
-
-
 

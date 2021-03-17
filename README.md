@@ -2,7 +2,9 @@
 
 ![](.gitbook/assets/20210316_142454.jpg)
 
- [![](.gitbook/assets/20210316_142454.jpg)](https://rdevelop.ditoland.co.kr/GameManage/CG)
+ 
+
+![](.gitbook/assets/20210316_142454.jpg)
 
 <table>
   <thead>
@@ -34,7 +36,7 @@
   <thead>
     <tr>
       <th style="text-align:left">
-        <img src=".gitbook/assets/20210316_152740 (2) (2) (2).jpg" alt/>
+        <img src=".gitbook/assets/20210316_152740 (2) (2) (4) (4).jpg" alt/>
       </th>
       <th style="text-align:left">
         <p>
@@ -63,7 +65,7 @@
         </p>
       </td>
       <td style="text-align:left">
-        <img src=".gitbook/assets/20210316_152740 (2) (2) (2).jpg" alt/>
+        <img src=".gitbook/assets/20210316_152740 (2) (2) (4) (4).jpg" alt/>
       </td>
     </tr>
   </tbody>
